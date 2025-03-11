@@ -26,7 +26,7 @@
 I'm a passionate developer who loves to code, but there's more to me than just ~~creating bugs~~ programming:
 
 - 🇧🇷 Brazilian living in the beautiful [Florianópolis](https://www.wikiwand.com/en/articles/Florian%C3%B3polis)
-- 🎓 Mechanical Engineer by formation (Bachelor's and Master's from [UFSC](https://ufsc.br))
+- 🎓 Mechanical Engineer by formation—Bachelor's and Master's from the [Federal University of Santa Catarina (UFSC)](https://ufsc.br)
 - 💻 Software developer by passion (self-taught almost everything I know)
 - 🦖 Dinosaur enthusiast (what's your favorite one?)
 - 🐕 Proud father to two adorable chihuahuas who think they're much bigger than they actually are
