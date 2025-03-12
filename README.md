@@ -10,7 +10,7 @@
 </p>
 
 <div align="center">
-🚀 Software Engineer passionate about AI, code quality, and developer tools
+🚀 Software Engineer with a strong focus on AI, code quality, and developer tools
 <br/>
 🔭 Currently exploring LLM-powered applications and automation
 </div>
@@ -23,7 +23,7 @@
 
 ### 🧑‍💻 About Me
 
-I'm a passionate developer who loves to code, but there's more to me than just ~~creating bugs~~ programming:
+I'm a software developer who loves to code, but there's more to me than just ~~crafting bugs~~ programming:
 
 - 🇧🇷 Brazilian living in the beautiful [Florianópolis](https://www.wikiwand.com/en/articles/Florian%C3%B3polis)
 - 🎓 Mechanical Engineer by formation—Bachelor's and Master's from the [Federal University of Santa Catarina (UFSC)](https://en.ufsc.br/)
@@ -31,8 +31,7 @@ I'm a passionate developer who loves to code, but there's more to me than just ~
 - 🦖 Dinosaur enthusiast (what's your favorite one?)
 - 🐕 Proud father to two adorable chihuahuas who think they're much bigger than they actually are
 - 🏐 Beach volleyball player with more enthusiasm than skill
-- 🎮 Last fell in love with Hollow Knight
-- 🎵 Music enthusiast - check out what I'm listening to:
+- 🎮 Last fell in love with [Hollow Knight](https://www.hollowknight.com/)
 
 #### 🎵 Let's listen to some music together!
 
