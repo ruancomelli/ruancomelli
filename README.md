@@ -5,7 +5,10 @@
 	<img src="https://api.visitorbadge.io/api/visitors?path=ruancomelli%2Fruancomelli&label=🌍 %20 Total%20Visitors&countColor=%23263759&style=flat&labelStyle=none" />
 </a>
 <a href="https://github.com/ruancomelli?tab=repositories">
-	<img src="https://img.shields.io/github/stars/ruancomelli?style=flat&logo=github&label=Total%20Stars&color=teal"/>
+	<img src="https://img.shields.io/github/stars/ruancomelli?style=flat&label=⭐ %20 Total%20Stars&color=teal"/>
+</a>
+<a href="https://github.com/ruancomelli?tab=followers" target="_blank">
+	<img src="https://img.shields.io/github/followers/ruancomelli?label=Followers&logo=GitHub&style=flat" alt="GitHub followers" />
 </a>
 </p>
 
