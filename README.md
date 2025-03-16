@@ -393,6 +393,12 @@ Here's what my development environment looks like:
 <a href="https://github.com/ruancomelli">
 	<img src="https://img.shields.io/badge/-ruancomelli-black?style=flat&logo=Github&logoColor=white&link=https://github.com/ruancomelli" />
 </a>
+<a href="https://discord.com/users/716668232852832317">
+	<img src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=Discord&logoColor=white" />
+</a>
+<a href="https://steamcommunity.com/id/rugortal">
+	<img src="https://img.shields.io/badge/-Steam-171a21?style=flat&logo=Steam&logoColor=white" />
+</a>
 
 I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out if you want to discuss tech, share ideas, or just say hi!
 
