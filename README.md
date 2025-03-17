@@ -393,8 +393,8 @@ Here's what my development environment looks like:
 <a href="https://github.com/ruancomelli">
 	<img src="https://img.shields.io/badge/-ruancomelli-black?style=flat&logo=Github&logoColor=white&link=https://github.com/ruancomelli" />
 </a>
-<a href="https://discord.com/users/716668232852832317">
-	<img src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=Discord&logoColor=white" />
+<a href="https://t.me/ruancomelli">
+	<img src="https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=Telegram&logoColor=white" />
 </a>
 <a href="https://steamcommunity.com/id/rugortal">
 	<img src="https://img.shields.io/badge/-Steam-171a21?style=flat&logo=Steam&logoColor=white" />
