@@ -66,7 +66,7 @@ At Sourcery, I contributed to building intelligent tools for developers:
 - 🔥 Developed models to estimate heat flux in pool boiling experiments
 - 📊 Implemented and optimized convolutional neural networks using Keras/TensorFlow and AutoKeras
 - 🔝 Pushed the state of the art in pool boiling heat transfer estimation
-- 📝 Published research: [Code Repository](https://github.com/ruancomelli/boiling-learning) | [Thesis](https://github.com/ruancomelli/masters-thesis) | [Paper](https://doi.org/10.1016/j.applthermaleng.2024.124040)
+- 📝 Published research: [Thesis](https://repositorio.ufsc.br/bitstream/handle/123456789/249851/PEMC2305-D.pdf?sequence=1&isAllowed=y) | [Paper](https://doi.org/10.1016/j.applthermaleng.2024.124040) | [Code Repository](https://github.com/ruancomelli/boiling-learning) | [Thesis Repository](https://github.com/ruancomelli/masters-thesis)
 
 ---
 
@@ -388,7 +388,7 @@ Here's what my development environment looks like:
 	<img src="https://img.shields.io/badge/-ruancomelli@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ruancomelli@gmail.com" />
 </a>
 <a href="https://www.linkedin.com/in/ruancomelli/">
-	<img src="https://img.shields.io/badge/-Ruan%20Comelli-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ruancomelli/" />
+	<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ruancomelli/" />
 </a>
 <a href="https://github.com/ruancomelli">
 	<img src="https://img.shields.io/badge/-ruancomelli-black?style=flat&logo=Github&logoColor=white&link=https://github.com/ruancomelli" />
@@ -398,6 +398,9 @@ Here's what my development environment looks like:
 </a>
 <a href="https://steamcommunity.com/id/rugortal">
 	<img src="https://img.shields.io/badge/-Steam-171a21?style=flat&logo=Steam&logoColor=white" />
+</a>
+<a href="https://www.strava.com/athletes/ruancomelli">
+	<img src="https://img.shields.io/badge/-Strava-FC4C02?style=flat&logo=Strava&logoColor=white" />
 </a>
 
 I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out if you want to discuss tech, share ideas, or just say hi!
