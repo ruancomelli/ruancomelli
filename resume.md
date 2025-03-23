@@ -10,11 +10,7 @@ I'm deeply invested in developer productivity and code maintainability, building
 - **Location**: [Florianópolis, Brazil](https://en.wikipedia.org/wiki/Florian%C3%B3polis)
 - **GitHub**: https://github.com/ruancomelli
 - **LinkedIn**: https://www.linkedin.com/in/ruancomelli/
-
-## Languages
-
-- Portuguese (Native)
-- English (Professional)
+- **Languages**: English (Professional), Portuguese (Native)
 
 ## Core Competencies
 
@@ -91,8 +87,8 @@ I'm deeply invested in developer productivity and code maintainability, building
 
 **Federal University of Santa Catarina (UFSC)**, Brazil
 
-- Focus: Applied deep learning to a variety of computer vision challenges in mechanical engineering
-- Advanced state-of-the-art methodologies through innovative research
+- Architected an AutoML-optimized deep learning solution to quantify pool boiling heat flux from 200,000+ boiling images across four heating surfaces in two visualization modes
+- Decreased prediction error by 73%-80% compared to the state-of-the-art using an optimized CNN architecture 73%-96% smaller than the reference model
 - Thesis: [Automated model selection for pool boiling heat transfer estimation on multiple surfaces](https://repositorio.ufsc.br/bitstream/handle/123456789/249851/PEMC2305-D.pdf?sequence=1&isAllowed=y)
 - Paper published in _Applied Thermal Engineering_: [Image-based quantification of pool boiling heat flux on varied heating surfaces: Enhancing prediction performance with automated machine learning](https://doi.org/10.1016/j.applthermaleng.2024.124040)
 
@@ -115,19 +111,15 @@ I'm deeply invested in developer productivity and code maintainability, building
 
 ### Brag AI
 
-- AI-powered CLI tool that automatically generates and maintains a brag document from GitHub contributions
+- AI-powered CLI tool that generates and updates a brag document from GitHub contributions
 - Transforms raw commit messages into polished achievements for performance reviews and job applications
-- Features deep GitHub integration, AI-enhanced commit analysis, and local LLM processing
 - Successfully used to generate parts of this resume, demonstrating practical application
 - [GitHub Repository](https://github.com/ruancomelli/brag-ai)
 - Note: v0.1.0 recently published, under active development with frequent improvements
 
 ### Boiling Learning
 
-- Developed a deep learning solution to quantify pool boiling heat flux from images
-- Designed CNN optimized via AutoML to analyze 200,000+ boiling images across four heating surfaces
-- Demonstrated improved model generalization through surface-specific training
-- Research contributed to publication in _Applied Thermal Engineering_
+- Open-source implementation of the deep learning methodology developed during my Master's research
 - [GitHub Repository](https://github.com/ruancomelli/boiling-learning)
 
 ---
