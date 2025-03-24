@@ -407,7 +407,7 @@ I'm always open to interesting conversations and collaboration opportunities. Fe
 
 #### 🤝 I'm currently interested in:
 
-- 💼 Contract and freelance opportunities in software development and AI
+- 💼 Work opportunities in software development, AI, and developer tools
 - 🌟 Contributing to open-source projects, especially in Python and Rust
 - 🧩 Collaborating on innovative developer tools and LLM applications
 - 🔄 Exchanging ideas about code quality, automation, and developer experience
