@@ -1,4 +1,4 @@
-## Hello, World! I'm [Ruan](https://github.com/ruancomelli) 👋
+## Hello, World! I'm [Ruan](https://www.ruancomelli.com) 👋
 
 <p align="center">
 <a href="https://visitorbadge.io/status?path=ruancomelli%2Fruancomelli">
@@ -16,6 +16,8 @@
 🚀 Software Engineer with a strong focus on AI, code quality, and developer tools
 <br/>
 🔭 Currently exploring LLM-powered applications and automation
+<br/>
+🌐 Check out my website at <a href="https://www.ruancomelli.com">ruancomelli.com</a>
 </div>
 
 ---
@@ -384,14 +386,17 @@ Here's what my development environment looks like:
 
 ### 👋 Let's Connect!
 
-<a href="mailto:ruancomelli@gmail.com">
-	<img src="https://img.shields.io/badge/-ruancomelli@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ruancomelli@gmail.com" />
+<a href="https://www.ruancomelli.com">
+	<img src="https://img.shields.io/badge/-Website-4CAF50?style=flat&logo=Safari&logoColor=white" />
+</a>
+<a href="mailto:me@ruancomelli.com">
+	<img src="https://img.shields.io/badge/-me@ruancomelli.com-c14438?style=flat&logo=Gmail&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/ruancomelli/">
-	<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ruancomelli/" />
+	<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/ruancomelli">
-	<img src="https://img.shields.io/badge/-ruancomelli-black?style=flat&logo=Github&logoColor=white&link=https://github.com/ruancomelli" />
+	<img src="https://img.shields.io/badge/-ruancomelli-black?style=flat&logo=Github&logoColor=white" />
 </a>
 <a href="https://t.me/ruancomelli">
 	<img src="https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=Telegram&logoColor=white" />
