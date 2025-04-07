@@ -50,24 +50,29 @@ I'm a software developer who loves to code, but there's more to me than just ~~c
 
 At Sourcery, I contributed to building intelligent tools for developers:
 
-- 🔍 Developed a rules-based code review tool for automated code quality checks and fixes
-- 🤖 Built LLM-powered code review systems with sophisticated prompt engineering using LangChain
-- 🛠️ Created an automated bug fixing tool leveraging LLMs
-- 🔄 Implemented the GitHub bot infrastructure to react to repository events and trigger LLM workflows
-- 📊 Focused heavily on code quality both internally and as the goal of our products
+- 🤖 Designed and implemented LLM-powered systems for automated code review and bug fixing
+- 🔄 Re-architected and maintained an event-driven GitHub/GitLab bot infrastructure supporting natural language comment commands
+- 📝 Implemented automated PR titles and summaries; Mermaid diagram visualization; and security-focused reviews
+- 📊 Built evaluation datasets and scripts for AI-generated patches, using LangSmith for testing and observability
+- 🛠️ Improved our CLI, GitHub Actions, and IDE extensions to streamline workflows and increase adoption
+- ⚡ Led codebase modernization by replacing Black and PyLint with Ruff, making linting and formatting near-instantaneous
+- 🔍 Enhanced our static analysis engine and added linting and refactoring rules
 
 #### [Elint](https://www.elint.io/en) – _Tech Lead_ (2021)
 
-- 📄 Led development of document processing tools to extract information from scanned images and PDFs
-- 🔎 Implemented OCR solutions using Tesseract and state-of-the-art open-source models
-- ☁️ Worked extensively with AWS infrastructure for document processing pipelines
+- 📄 Led a team in developing a proof-of-concept for automated PDF data extraction, successfully delivering a solution that was adopted by the client
+- 🔎 Architected and implemented a custom OCR solution that outperformed state-of-the-art commercial tools, including Google Vision, by combining Tesseract with modern open-source models
+- ☁️ Designed and implemented serverless document processing pipelines using infrastructure-as-code
 
 #### [UFSC](https://ufsc.br) – _Master's in Mechanical Engineering_ (2019 – 2023)
 
 - 🧠 Applied deep learning to a computer vision problem in mechanical engineering
 - 🔥 Developed models to estimate heat flux in pool boiling experiments
 - 📊 Implemented and optimized convolutional neural networks using Keras/TensorFlow and AutoKeras
-- 🔝 Pushed the state of the art in pool boiling heat transfer estimation
+- 🔝 Pushed the state of the art in pool boiling heat transfer estimation:
+  - Reduced prediction error by 73%-80%
+  - Optimized CNN architecture 73%-96% smaller than previous state-of-the-art
+  - Processed 200,000+ boiling images across four heating surfaces
 - 📝 Published research: [Thesis](https://repositorio.ufsc.br/bitstream/handle/123456789/249851/PEMC2305-D.pdf?sequence=1&isAllowed=y) | [Paper](https://doi.org/10.1016/j.applthermaleng.2024.124040) | [Code Repository](https://github.com/ruancomelli/boiling-learning) | [Thesis Repository](https://github.com/ruancomelli/masters-thesis)
 
 ---
@@ -75,7 +80,6 @@ At Sourcery, I contributed to building intelligent tools for developers:
 ### 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-3178C6?style=flat&logo=chainlink&logoColor=white)
 ![LLMs](https://img.shields.io/badge/-LLMs-FF6F00?style=flat&logo=openai&logoColor=white)
@@ -85,15 +89,20 @@ At Sourcery, I contributed to building intelligent tools for developers:
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Pydantic](https://img.shields.io/badge/-Pydantic-000000?style=flat&logo=pydantic&logoColor=white)
+![Ruff](https://img.shields.io/badge/-Ruff-000000?style=flat&logo=ruff&logoColor=white)
 
 #### 💪 Strong Skills
 
 - Python development (libraries, packages, testing)
-- LLM integration and prompt engineering
-- Code quality tooling and static analysis
+- LLM integration and prompt engineering (Pydantic AI, LangChain, LangSmith, LangGraph)
+- Code quality tooling and static analysis (Ruff, MyPy, Tree-Sitter)
 - CI/CD with GitHub Actions
 - Machine learning and computer vision
 - Git workflows and version control
+- Type-safe Python development
+- Scientific software development and reproducibility
+- LLM system evaluation and testing
 
 #### 🌱 Current Focus
 
