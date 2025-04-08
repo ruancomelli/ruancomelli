@@ -1,26 +1,23 @@
 # Ruan Cardoso Comelli
 
+Software engineer specializing in developer tools and automation, building robust systems for code quality and LLM integration.
+
+## About
+
 I'm a software engineer who loves building tools that make developers' lives easier. My journey started in mechanical engineering and scientific computing, which gave me a unique perspective on solving software problems - whether it's with traditional algorithms or cutting-edge AI.
 
-I focus on creating practical solutions that combine solid engineering practices with smart automation. My goal is simple: make codebases easier to maintain and development workflows smoother. I believe in tools that actually help developers while keeping code quality high.
+I focus on creating practical solutions that combine solid engineering practices with smart automation. My goal is simple: make codebases easier to maintain and development workflows smoother. I love building tools that developers love using.
 
 When I'm not working hard, you can find me playing beach volleyball (with more enthusiasm than skill) or exploring the beautiful island of Florianópolis with my two adorable chihuahuas.
 
 ## Contact Information
 
-- **Email**: ruancomelli@gmail.com
+- **Website**: [ruancomelli.com](https://www.ruancomelli.com)
+- **Email**: me@ruancomelli.com
 - **Location**: [Florianópolis, Brazil](https://en.wikipedia.org/wiki/Florian%C3%B3polis)
 - **GitHub**: https://github.com/ruancomelli
 - **LinkedIn**: https://www.linkedin.com/in/ruancomelli/
 - **Languages**: English (Professional), Portuguese (Native)
-
-## Core Competencies
-
-- AI/ML Systems: LLM integration, prompt engineering, and AI-powered automation
-- Developer Tools: Code quality tools, static analysis systems, and productivity solutions
-- Software Engineering: Advanced Python development, testing, and CI/CD pipeline design
-- Research & Innovation: Machine learning applications, deep learning model design, and scientific computing
-- Platform Integration: GitHub/GitLab automation, bot infrastructure, and API development
 
 ## Professional Experience
 
@@ -28,21 +25,33 @@ When I'm not working hard, you can find me playing beach volleyball (with more e
 
 [https://sourcery.ai](https://sourcery.ai)
 
-- Contributed to processing thousands of repositories through automated code review and quality checks
-- Collaborated on designing and implementing an LLM-powered code review system using LangChain, integrating with GitHub's API
-- Developed key components of an automated bug fixing tool with structured dataset evaluation for AI-generated patches
-- Built and maintained GitHub bot infrastructure for repository events and LLM workflow triggering
-- Enhanced platform APIs and automated code review commands for improved developer interactions
+- Designed and implemented LLM-powered systems for automated code review and bug fixing
+- Re-architected and maintained an event-driven GitHub/GitLab bot infrastructure supporting natural language comment commands
+- Implemented automated PR titles and summaries; Mermaid diagram visualization; and security-focused reviews — all widely adopted and loved by users
+- Built evaluation datasets and scripts for AI-generated patches, using LangSmith for testing and observability
+- Improved our CLI, GitHub Actions, and IDE extensions to streamline workflows and increase adoption
+- Led codebase modernization by replacing Black and PyLint with Ruff, making linting and formatting near-instantaneous; upgraded Python/runtime dependencies for a smoother dev experience
+- Enhanced our static analysis engine and added linting and refactoring rules
 
 ### Tech Lead at Elint (2021)
 
 [https://www.elint.io/en](https://www.elint.io/en)
 
-- Led a successful proof-of-concept for document processing tools, enabling client project advancement
-- Implemented a custom OCR solution integrating Tesseract with modern state-of-the-art open-source models for improved accuracy
+- Led a team in developing a proof-of-concept for automated PDF data extraction, successfully delivering a solution that was adopted by the client
+- Architected and implemented a custom OCR solution that outperformed state-of-the-art commercial tools, including Google Vision, by combining Tesseract with modern open-source models
 - Designed and implemented serverless document processing pipelines using infrastructure-as-code
 
 ## Technical Skills
+
+Summary:
+
+- Programming Languages: Python (primary), Shell scripting, Rust (learning), JavaScript/TypeScript (learning)
+- AI/LLM: Pydantic AI, LangChain, LangSmith, LangGraph, PyTorch/TensorFlow, OpenCV, LLM integration, prompt engineering, model evaluation
+- Developer Tools & infra: Ruff, MyPy, CI/CD, Git/GitHub, GitHub Actions, Pipenv/Poetry/UV, Docker, GCP, AWS
+- Testing & Quality: Pytest, CodeCov, TDD, type-safe Python
+- Python Ecosystem: Pydantic, Click/Typer, NumPy, Pandas/Polars, SQLAlchemy, Flask/FastAPI, MkDocs/Sphinx
+- (Human) Languages: English (professional), Portuguese (native)
+- Open Source & Personal Projects: Created Brag AI (still v0.1.0!), a CLI tool that turns Git/GitHub commits into polished achievements—used to generate parts of this resume. Open-sourced my Master's deep learning research in Boiling Learning. Currently seeking more hands-on open-source experience.
 
 ### Programming Languages
 
@@ -90,7 +99,7 @@ When I'm not working hard, you can find me playing beach volleyball (with more e
 **Federal University of Santa Catarina (UFSC)**, Brazil
 
 - Architected an AutoML-optimized deep learning solution to quantify pool boiling heat flux from 200,000+ boiling images across four heating surfaces in two visualization modes
-- Decreased prediction error by 73%-80% compared to the state-of-the-art using an optimized CNN architecture 73%-96% smaller than the reference model
+- Reduced prediction error by 73%-80% with an optimized CNN architecture 73%-96% smaller than the previous state-of-the-art
 - Thesis: [Automated model selection for pool boiling heat transfer estimation on multiple surfaces](https://repositorio.ufsc.br/bitstream/handle/123456789/249851/PEMC2305-D.pdf?sequence=1&isAllowed=y)
 - Paper published in _Applied Thermal Engineering_: [Image-based quantification of pool boiling heat flux on varied heating surfaces: Enhancing prediction performance with automated machine learning](https://doi.org/10.1016/j.applthermaleng.2024.124040)
 
