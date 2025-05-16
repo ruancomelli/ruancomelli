@@ -41,17 +41,20 @@ When I'm not working hard, you can find me playing beach volleyball (with more e
 - Architected and implemented a custom OCR solution that outperformed state-of-the-art commercial tools, including Google Vision, by combining Tesseract with modern open-source models
 - Designed and implemented serverless document processing pipelines using infrastructure-as-code
 
-## Technical Skills
+## Skills
 
 Summary:
 
-- Programming Languages: Python (primary), Shell scripting, Rust (learning), JavaScript/TypeScript (learning)
-- AI/LLM: Pydantic AI, LangChain, LangSmith, LangGraph, PyTorch/TensorFlow, OpenCV, LLM integration, prompt engineering, model evaluation
-- Developer Tools & infra: Ruff, MyPy, CI/CD, Git/GitHub, GitHub Actions, Pipenv/Poetry/UV, Docker, GCP, AWS
-- Testing & Quality: Pytest, CodeCov, TDD, type-safe Python
-- Python Ecosystem: Pydantic, Click/Typer, NumPy, Pandas/Polars, SQLAlchemy, Flask/FastAPI, MkDocs/Sphinx
-- (Human) Languages: English (professional), Portuguese (native)
-- Open Source & Personal Projects: Created Brag AI (still v0.1.0!), a CLI tool that turns Git/GitHub commits into polished achievements—used to generate parts of this resume. Open-sourced my Master's deep learning research in Boiling Learning. Currently seeking more hands-on open-source experience.
+- **Programming Languages**: Python (primary), Shell scripting, Rust (learning), JavaScript/TypeScript (learning)
+- **AI & Data**: Pydantic, PydanticAI, LangChain, LangSmith, LangGraph; LLM integration, prompt engineering, model evaluation; TensorFlow, PyTorch, OpenCV; NumPy, Pandas, Polars, SQLAlchemy
+- **Backend, Tooling & DevOps**: UV, Pipenv; Click, Typer, MkDocs, Sphinx; CI/CD, Git, GitHub, GitHub Actions; Flask, FastAPI, Docker, GCP, AWS
+- **Code Quality & Testing**: Ruff, MyPy, Tree-sitter; Pytest, CodeCov, TDD; focus on type safety, maintainability, robust test coverage, and comprehensive documentation
+- **Architecture & Design**: Systems architecture, domain-driven design, modularization & decoupling, design patterns, API & service design, event-driven systems, emerging tech adoption
+- **Product & Strategy**: Product vision & planning, MVP/prototyping, metrics-driven decisions, user-centric design, stakeholder collaboration
+- **Communication & Collaboration**: Clear verbal & written communication, async/sync collaboration, active listening, code reviews, documentation (dev & user-facing), meeting facilitation, cross-functional teamwork
+- **Mindset & Problem Solving**: Critical thinking, adaptability, proactivity, continuous learning, positive attitude
+- **Open Source & Personal Projects**: Created Brag AI (still v0.1.0!), a CLI tool that turns Git/GitHub commits into polished achievements—used to generate parts of this resume. Open-sourced my Master’s deep learning research in Boiling Learning. Currently seeking more hands-on open-source experience.
+- **(Human) Languages**: English (professional), Portuguese (native)
 
 ### Programming Languages
 
@@ -132,3 +135,7 @@ Summary:
 
 - Open-source implementation of the deep learning methodology developed during my Master's research
 - [GitHub Repository](https://github.com/ruancomelli/boiling-learning)
+
+
+
+
