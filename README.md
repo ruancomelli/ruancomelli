@@ -321,10 +321,14 @@ Here's what my development environment looks like:
 </a>
 </div>
 
----
+<!-- --- -->
 
 ### 📊 GitHub Stats
 
+<sup>_Note that this only includes public contributions._</sup>
+
+
+<!-- 
 <sup>_I did not know I had written so much C++ in my life! Cursed times..._</sup>
 
 <div align="center">
@@ -358,8 +362,9 @@ Here's what my development environment looks like:
 </picture>
 </a>
 </div>
+-->
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-top: 10px;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-top: 10px;">
 <a href="https://github.com/HwangTaehyun/github-repository-contribution-stats">
 <picture>
   <source
@@ -373,7 +378,9 @@ Here's what my development environment looks like:
   <img src="https://github-contributor-stats.vercel.app/api?username=ruancomelli&hide_contributor_rank=false&custom_title=Contribution%20Stats&theme=default" />
 </picture>
 </a>
+</div>
 
+<!-- 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
 <picture>
   <source
@@ -390,6 +397,7 @@ Here's what my development environment looks like:
 </div>
 
 </div>
+-->
 
 ---
 
