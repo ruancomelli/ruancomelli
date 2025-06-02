@@ -113,7 +113,9 @@ At Sourcery, I contributed to building intelligent tools for developers:
 
 ---
 
-### 🚀 Featured Projects
+### 📝 Code Showcase
+
+#### 🚀 Featured Projects
 
 <div align="center">
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
@@ -144,6 +146,57 @@ At Sourcery, I contributed to building intelligent tools for developers:
   </div>
 </div>
 -->
+
+#### 🎯 Notable Contributions
+
+- [Rust](https://github.com/rust-lang/rust):
+  - [Add `const` support for float rounding methods #141521](https://github.com/rust-lang/rust/pull/141521): Added `const` support for rounding methods (`floor`, `ceil`, `trunc`, `round`, `round_ties_even`) across all float types (`f16`, `f32`, `f64`, `f128`) - _my first contribution to the Rust project!_
+
+#### 📋 Useful Gists
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+<a href="https://gist.github.com/ruancomelli/7ea42545621a260a99b981ab4c28696e">
+<picture>
+  <source
+    srcset="https://github-readme-stats-ruancomelli.vercel.app/api/gist?id=7ea42545621a260a99b981ab4c28696e&theme=github_dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-ruancomelli.vercel.app/api/gist?id=7ea42545621a260a99b981ab4c28696e&theme=default"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats-ruancomelli.vercel.app/api/gist?id=7ea42545621a260a99b981ab4c28696e&theme=default" alt="A maintenance script to fix, clean and upgrade packages (NuShell version)" />
+</picture>
+</a>
+
+<a href="https://gist.github.com/ruancomelli/62655014cd6d1154abb0bf3a77265ce8">
+<picture>
+  <source
+    srcset="https://github-readme-stats-ruancomelli.vercel.app/api/gist?id=62655014cd6d1154abb0bf3a77265ce8&theme=github_dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-ruancomelli.vercel.app/api/gist?id=62655014cd6d1154abb0bf3a77265ce8&theme=default"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats-ruancomelli.vercel.app/api/gist?id=62655014cd6d1154abb0bf3a77265ce8&theme=default" alt="A maintenance script to fix, clean and upgrade packages (Bash version)" />
+</picture>
+</a>
+
+<a href="https://gist.github.com/ruancomelli/b33fc3ce5afd75989216c3eab0f7e1ee">
+<picture>
+  <source
+    srcset="https://github-readme-stats-ruancomelli.vercel.app/api/gist?id=b33fc3ce5afd75989216c3eab0f7e1ee&theme=github_dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-ruancomelli.vercel.app/api/gist?id=b33fc3ce5afd75989216c3eab0f7e1ee&theme=default"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats-ruancomelli.vercel.app/api/gist?id=b33fc3ce5afd75989216c3eab0f7e1ee&theme=default" alt="Download commit history from a GitHub repository for a specific user" />
+</picture>
+</a>
+</div>
 
 ---
 
@@ -275,60 +328,11 @@ Here's what my development environment looks like:
 
 ---
 
-### 📝 Code Snippets I'm Proud Of
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-<a href="https://gist.github.com/ruancomelli/7ea42545621a260a99b981ab4c28696e">
-<picture>
-  <source
-    srcset="https://github-readme-stats-ruancomelli.vercel.app/api/gist?id=7ea42545621a260a99b981ab4c28696e&theme=github_dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats-ruancomelli.vercel.app/api/gist?id=7ea42545621a260a99b981ab4c28696e&theme=default"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats-ruancomelli.vercel.app/api/gist?id=7ea42545621a260a99b981ab4c28696e&theme=default" alt="A maintenance script to fix, clean and upgrade packages (NuShell version)" />
-</picture>
-</a>
-
-<a href="https://gist.github.com/ruancomelli/62655014cd6d1154abb0bf3a77265ce8">
-<picture>
-  <source
-    srcset="https://github-readme-stats-ruancomelli.vercel.app/api/gist?id=62655014cd6d1154abb0bf3a77265ce8&theme=github_dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats-ruancomelli.vercel.app/api/gist?id=62655014cd6d1154abb0bf3a77265ce8&theme=default"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats-ruancomelli.vercel.app/api/gist?id=62655014cd6d1154abb0bf3a77265ce8&theme=default" alt="A maintenance script to fix, clean and upgrade packages (Bash version)" />
-</picture>
-</a>
-
-<a href="https://gist.github.com/ruancomelli/b33fc3ce5afd75989216c3eab0f7e1ee">
-<picture>
-  <source
-    srcset="https://github-readme-stats-ruancomelli.vercel.app/api/gist?id=b33fc3ce5afd75989216c3eab0f7e1ee&theme=github_dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats-ruancomelli.vercel.app/api/gist?id=b33fc3ce5afd75989216c3eab0f7e1ee&theme=default"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats-ruancomelli.vercel.app/api/gist?id=b33fc3ce5afd75989216c3eab0f7e1ee&theme=default" alt="Download commit history from a GitHub repository for a specific user" />
-</picture>
-</a>
-</div>
-
-<!-- --- -->
-
 ### 📊 GitHub Stats
 
 <sup>_Note that this only includes public contributions._</sup>
 
-
-<!-- 
+<!--
 <sup>_I did not know I had written so much C++ in my life! Cursed times..._</sup>
 
 <div align="center">
@@ -380,7 +384,7 @@ Here's what my development environment looks like:
 </a>
 </div>
 
-<!-- 
+<!--
 <a href="https://github.com/ryo-ma/github-profile-trophy">
 <picture>
   <source
